@@ -7,4 +7,4 @@ A collections of my Blender models. These models range in quality from trash to 
 * Tank
 * Low Poly Tree
 * Satellite Telescope
-* Tardis (Very Old)
+* Tardis (Very Old and missing textures)
