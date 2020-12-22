@@ -42,3 +42,6 @@ A collections of my Blender models. These models range in quality from trash to 
 * Wall
 * Wrench
 
+## Preview
+
+Should be able to preview in build if you select the stl version right in GitHub
