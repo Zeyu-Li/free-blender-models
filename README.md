@@ -1,6 +1,6 @@
 # Blender Models
 
-A collections of my Blender models. These models are mostly on the low poly side. These models are free to use for commercial or private purposes with attribution
+A collection of my Blender models. These models are mostly on the low poly side. These models are free to use for commercial or private purposes with attribution
 
 ## Preview
 
